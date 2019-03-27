@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 812b2cf90c5d1824981ebee72b766d2b, type: 3}
+  m_Name: Large Road Tile
+  m_EditorClassIdentifier: 
+  spriteUD: {fileID: 21300000, guid: 26da666e0fd156144bcc90594ec21eb1, type: 3}
+  spriteLR: {fileID: 21300000, guid: 19a43366015293848984cc6a1f51a960, type: 3}
+  spriteUL: {fileID: 21300000, guid: 955770a88d033e3458658b0901f71530, type: 3}
+  spriteUR: {fileID: 21300000, guid: 3fc1fb85d6a86b642bc712bf0e8b6ab1, type: 3}
+  spriteDL: {fileID: 21300000, guid: 787af75fa576e9449a3929fea0ad907e, type: 3}
+  spriteDR: {fileID: 21300000, guid: 53f2937d594bb4c499ced0e3626d1d8f, type: 3}
+  spriteUDL: {fileID: 21300000, guid: b74de361a63ec3347a7025fa798ef3a4, type: 3}
+  spriteUDR: {fileID: 21300000, guid: 84073f280dbab234988104fb1aea1c5d, type: 3}
+  spriteULR: {fileID: 21300000, guid: 4b39511de94c728459af1bfc0357b4be, type: 3}
+  spriteDLR: {fileID: 21300000, guid: 11c64bd73409ab14ca617b0239f5aca7, type: 3}
+  spriteUDLR: {fileID: 21300000, guid: 02e0e03b2b5f30b41b376ec2f7551835, type: 3}
+  spriteUDW: {fileID: 21300000, guid: 26da666e0fd156144bcc90594ec21eb1, type: 3}
+  spriteLRW: {fileID: 21300000, guid: 19a43366015293848984cc6a1f51a960, type: 3}
+  id: 0
+  roadClass: 2

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad693098064785847ac39cde0f735e7e, type: 3}
+  m_Name: River Tile
+  m_EditorClassIdentifier: 
+  spriteU: {fileID: 21300000, guid: d150d3426bb43cd409d69c4c883f9e34, type: 3}
+  spriteD: {fileID: 21300000, guid: 358b744f142b4b948924068608acd496, type: 3}
+  spriteL: {fileID: 21300000, guid: 1c98d2e83bc1d194f8196d75e50683de, type: 3}
+  spriteR: {fileID: 21300000, guid: 8c53f6cbf20a79341af7b5370bc5f232, type: 3}
+  spriteUD: {fileID: 21300000, guid: 108f66c5a4b10844e9b545fa04500ab9, type: 3}
+  spriteLR: {fileID: 21300000, guid: 80700d96c1d6f1140a43269d16d7fb77, type: 3}
+  spriteUL: {fileID: 21300000, guid: fb2259b312891534eb151dd757efc2eb, type: 3}
+  spriteUR: {fileID: 21300000, guid: 113dd43d2ff139c42af177c2d227140c, type: 3}
+  spriteDL: {fileID: 21300000, guid: ead87662a57b3df40ba848fba2f0729d, type: 3}
+  spriteDR: {fileID: 21300000, guid: 026a60056f63930458825d437a253fd9, type: 3}
+  spriteULW: {fileID: 21300000, guid: dcf18258b42541a4f8d16b2cd586186c, type: 3}
+  spriteURN: {fileID: 21300000, guid: e1b7656c4b0eac544a987e0afb5fbc60, type: 3}
+  spriteDLS: {fileID: 21300000, guid: 5d80285a807392047b970d2ebbcc6fb3, type: 3}
+  spriteDRE: {fileID: 21300000, guid: 11d842d0e64856249bc6510b10cc957b, type: 3}
+  spriteUDL: {fileID: 21300000, guid: 69df585788a1bbd41b0ff2b5ede44aaa, type: 3}
+  spriteUDR: {fileID: 21300000, guid: d446a837295cedf46b280fc232d2491d, type: 3}
+  spriteULR: {fileID: 21300000, guid: e0d3c865a845ff847b6925f2bb4ed2fb, type: 3}
+  spriteDLR: {fileID: 21300000, guid: c5c3d56438d48694eb4bdf1108fce019, type: 3}
+  spriteUDLS: {fileID: 21300000, guid: 76fa291e6b280824b98d17dd4a002d99, type: 3}
+  spriteUDLW: {fileID: 21300000, guid: fb896b00f9c674444a39400590ca4632, type: 3}
+  spriteUDLSW: {fileID: 21300000, guid: fe18819ee7cfe084685e16cc52b7e035, type: 3}
+  spriteUDRN: {fileID: 21300000, guid: 5fdd4aa318aabeb4ebe7568280545a72, type: 3}
+  spriteUDRE: {fileID: 21300000, guid: c9c18646f0049ef4db0387936391452a, type: 3}
+  spriteUDRNE: {fileID: 21300000, guid: ced91912e51c0b14da251a0276be4648, type: 3}
+  spriteULRN: {fileID: 21300000, guid: ad98413e4030fa44f860790ad4dccb21, type: 3}
+  spriteULRW: {fileID: 21300000, guid: 4b7094337dfe7c349aff8adb3e5d6526, type: 3}
+  spriteULRNW: {fileID: 21300000, guid: 68d3b1cca05396f45aae885850e9ea5d, type: 3}
+  spriteDLRS: {fileID: 21300000, guid: b05fa6499ec522c44a5bfb4a7e269c85, type: 3}
+  spriteDLRE: {fileID: 21300000, guid: 08626e5f72da5b941b24fde743f277f7, type: 3}
+  spriteDLRSE: {fileID: 21300000, guid: a82d702b6242d934ba0d53fae4458560, type: 3}
+  spriteUDLR: {fileID: 21300000, guid: 90c67452cbff8924b8b9174b5ba1723b, type: 3}
+  spriteUDLRN: {fileID: 21300000, guid: 525eda105a0195145beba0939480521b, type: 3}
+  spriteUDLRS: {fileID: 21300000, guid: 7aa9a142ec7ec7d4aae957cc0a2feeed, type: 3}
+  spriteUDLRE: {fileID: 21300000, guid: cd8a140f720570c4b9d798713c994d79, type: 3}
+  spriteUDLRW: {fileID: 21300000, guid: f9427434988289b44a786293c817c24a, type: 3}
+  spriteUDLRNS: {fileID: 21300000, guid: 56035b98417c68344acc1e1ddb5fb1d8, type: 3}
+  spriteUDLREW: {fileID: 21300000, guid: 00251d81bbcee1c47a240f2cd6bbf399, type: 3}
+  spriteUDLRNE: {fileID: 21300000, guid: 421b0d47516ba2049afc8d1365272ada, type: 3}
+  spriteUDLRNW: {fileID: 21300000, guid: d4dad7f06cc1f7d48b32c15e3c3411a6, type: 3}
+  spriteUDLRSE: {fileID: 21300000, guid: 8771cf1c9656e5847bfc172feddda1d2, type: 3}
+  spriteUDLRSW: {fileID: 21300000, guid: 6f77232fd7a621340bafdd7e7030daad, type: 3}
+  spriteUDLRNSE: {fileID: 21300000, guid: 0aedff8a533cde642ace61eb5df4495d, type: 3}
+  spriteUDLRNSW: {fileID: 21300000, guid: 6e8c80775d408754ca1f394b9b05d184, type: 3}
+  spriteUDLRNEW: {fileID: 21300000, guid: af3bcec406b2d564a9455278660386e4, type: 3}
+  spriteUDLRSEW: {fileID: 21300000, guid: 5079e210377d6e24181148425fdbc507, type: 3}
+  spriteUDLRNSEW: {fileID: 21300000, guid: 505449044ae006d4481639824b94d07f, type: 3}

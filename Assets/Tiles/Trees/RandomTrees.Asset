@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed1bcc2946010bf42a9b522eb57a9aaa, type: 3}
+  m_Name: RandomTrees
+  m_EditorClassIdentifier: 
+  possibilities:
+  - {fileID: 21300000, guid: 4f66c808bf13fae4faab785d7e186b68, type: 3}
+  - {fileID: 21300000, guid: 7ba5317d0e682da418a5e8568c177431, type: 3}
+  - {fileID: 21300000, guid: e989219fb4896334fae6f8b550e89982, type: 3}
+  - {fileID: 21300000, guid: a5c071fda10038643b7d692114546333, type: 3}
+  - {fileID: 21300000, guid: 5fc56968d57a10c4386dcf23ee238340, type: 3}
+  - {fileID: 21300000, guid: 9dbbe869b6703ec4d9e889b269877f58, type: 3}
+  - {fileID: 21300000, guid: e78e21b01350a10448329d57a63ffaf1, type: 3}
